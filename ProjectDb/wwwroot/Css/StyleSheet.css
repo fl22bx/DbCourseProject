@@ -1,0 +1,166 @@
+﻿body {
+    padding-bottom: 200px;
+}
+
+.hide {
+    visibility: hidden !important
+}
+
+.blur {
+    filter: blur(1px);
+}
+
+.register {
+    left: 50%;
+    top: 50%;
+    width: 300px;
+    height: 300px;
+    margin-left: -150px;
+    margin-top: -150px;
+    position: absolute;
+    vertical-align: middle;
+    z-index: 1000;
+    padding: 20px;
+    background-color: white;
+    border: 0.5px solid grey;
+    border-radius: 10px;
+}
+
+#newtrekk {
+    height: 400px !important;
+    margin-top: -200px;
+}
+
+.register input {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    width: 200px;
+}
+
+.register select {
+        display: block;
+        margin: auto;
+        margin-top: 10px;
+        width: 200px;
+}
+
+.filter {
+    margin: auto;
+    width: 200px;
+    height: 100px;
+    background-color: lightgray;
+    border: 0.5px solid black;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.filter p {
+        display: block;
+        font-size: 10px;
+    margin: 5px !important;
+}
+
+ .filter p:hover {
+         background-color: lightblue;
+         cursor: pointer;
+}
+
+    .buttons {
+        margin-top: 20px;
+        padding-left: 26px;
+    }
+
+.flip {
+    transform: rotateY(180deg);
+    visibility: visible !important;
+}
+
+.active {
+    background-color: darkgray;
+}
+
+td {
+    padding-left: 20px;
+    text-align: center
+}
+
+th {
+    padding-left: 20px;
+}
+
+#user {
+    width: 700px;
+    height: 500px;
+    margin-left: -350px;
+    margin-top: -300px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+#toplist tr {
+    cursor: pointer;
+}
+
+#toplist tr:hover {
+    background-color: darkgray;
+}
+
+#closeUser {
+    display: inline-block;
+    width: 40px;
+    float: right;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.header {
+    height: 100px;
+    background-color: lightblue;
+    margin-bottom: 10px;
+    padding: 30px;
+}
+
+#user p {
+    padding-left: 20px;
+}
+
+nav {
+    margin-top: -2rem;
+    margin-bottom: 2rem;
+    text-align: left;
+    padding-right: 20px; 
+}
+
+nav button {
+    margin-left: 0px;
+}
+
+nav p {
+    display: inline-block;
+    width: 30px;
+    background-color: darkblue;
+    color: wheat;
+}
+
+#sl {
+    width: 700px;
+    height: 500px;
+    margin-left: -350px;
+    margin-top: -300px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+
+#closeSL {
+    display: inline-block;
+    width: 40px;
+    float: right;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.border {
+    border: 1px dot-dash darkgrey;
+}

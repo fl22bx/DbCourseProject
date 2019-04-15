@@ -1,0 +1,145 @@
+﻿@model ProjectDb.ViewModel.QueryViewModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="register hide" id="newUser">
+    <form action="/1" method="post" id="hej">
+        <input type="text" name="name" value="" placeholder="Username" />
+        <input type="password" name="password" value="" placeholder="Password" />
+        <input type="email" name="email" value="" placeholder="E-Mail" />
+        <div class="buttons">
+            <button class="btn-dark" type="submit" id="save">Save</button>
+            <button class="btn-dark" type="button" id="close">Close</button>
+        </div>
+
+    </form>
+</div>
+
+<div class="register hide" id="newtrekk">
+
+    <form action="/1" method="post">
+        <fieldset>
+            <label for="name">User Credentials</label>
+            <input type="text" name="Username" value="" placeholder="Username" />
+            <input type="password" name="Userpassword" value="" placeholder="Password" />
+        </fieldset>
+
+        <fieldset>
+            <label>New Trekk</label>
+            <select name="TrekkPartTrail">
+                <option value="" disabled selected>PartTrail</option>
+                @foreach (var item in Model.PartTrailsResult)
+                {
+
+                    <option value=@item.Id>@item.Name</option>
+                }
+                ;
+            </select>
+            <input id="sectionNumber" name="sectionNumber" type="hidden" value="">
+            <div>
+                <input type="text" name="section" value="" id="filter" placeholder="Section" />
+                <div class="filter">
+                </div>
+            </div>
+        </fieldset>
+
+        <div class="buttons">
+            <button class="btn-dark" type="submit" id="saveNewTrekk">Save</button>
+            <button class="btn-dark" type="button" id="closeNewTrekk">Close</button>
+        </div>
+
+    </form>
+</div>
+
+<div class="register hide" id="user">
+    <div id="closeUser">X</div>
+    <h1 id="username">user clicked</h1>
+    <div id="userData"></div>
+</div>
+
+<div class="register hide" id="sl">
+    <div id="closeSL">X</div>
+    <div id="SLresult"></div>
+
+</div>
+
+<div class="wrapper">
+    <div class="container">
+        <div class="jumbotron">
+            <h1 class="">Your Skåneled</h1>
+            <p>Track your and your friends progress of Skåneleden</p>
+            <p>TotalLenght of Skåneleden: <span id="totalLength"> </span> KM</p>
+
+            <button id="new" class="btn-dark">New Trekker</button>
+            <button id="register" class="btn-dark ">Register Trekk</button>
+        </div>
+        <nav class="trailsl">
+            @foreach (var item in Model.PartTrailsResult)
+            {
+                <button class="btn-dark" data-value=@item.Id>@item.Name</button>
+            }
+        </nav>
+        <div class="flash"></div>
+    </div>
+
+    <div class="container">
+
+        <div class="row">
+            <div class="Planner col-md-6">
+                <!--
+                VandringsPlanerare
+                -->
+
+                <form id="form" method="post ">
+                    <select name="Distance" class="form-control">
+                        <option value="" disabled selected>Distance</option>
+                        <option value="LENGTH < 10000">Less Then 10 km</option>
+                        <option value="LENGTH >= 10000 AND LENGTH <= 20000">10 - 20 Km</option>
+                        <option value="LENGTH > 20000">More than 20 km</option>
+                    </select>
+
+                    <select name="Difficulty" class="form-control">
+                        <option value="" disabled selected>Dificulty</option>
+                        <option value="1">Green</option>
+                        <option value="2">Red</option>
+                        <option value="3">Black</option>
+                    </select>
+
+
+                    <select name="PartTrail">
+                        <option value="" disabled selected>PartTrail</option>
+                        @foreach (var item in Model.PartTrailsResult)
+                        {
+
+                            <option value=@item.Id>@item.Name</option>
+                        }
+                        ;
+                    </select>
+
+                    <button class="submit">Get Suggestions</button>
+                </form>
+
+
+                <div id="result">
+                    <!--Js: Result from Query-->
+
+                </div>
+            </div>
+            <div class="topUsers col-md-6">
+                <table class="table-striped" id="toplist">
+                    <tr>
+                        <th>Place</th>
+                        <th>Trekker</th>
+                        <th>KM Trekked</th>
+                        <th>% of Skåneleden Trekked</th>
+                    </tr>
+                </table>
+            </div>
+
+
+
+        </div>
+
+    </div>
+</div>

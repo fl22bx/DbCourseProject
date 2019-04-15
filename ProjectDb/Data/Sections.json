@@ -1,0 +1,982 @@
+[
+  {
+    "ID": 1,
+    "Destination1": "Sölvesborg",
+    "Destination2": "Grundsjön",
+    "Part": 2,
+    "Length": 14000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL1_1.gpx",
+    "partOf": 1
+  },
+  {
+    "ID": 2,
+    "Destination1": "Grundsjön",
+    "Destination2": "Östafors",
+    "Part": 2,
+    "Length": 16000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL1_2.gpx",
+    "partOf": 1
+  },
+  {
+    "ID": 3,
+    "Destination1": "Östafors",
+    "Destination2": "Bökestad",
+    "Part": 3,
+    "Length": 9000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL1_3.gpx",
+    "partOf": 1
+  },
+  {
+    "ID": 4,
+    "Destination1": "Bökestad",
+    "Destination2": "Brotorp",
+    "Part": 4,
+    "Length": 13000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL1-4.gpx",
+    "partOf": 1
+  },
+  {
+    "ID": 5,
+    "Destination1": "Brotorpet",
+    "Destination2": "Vesslarp",
+    "Part": 5,
+    "Length": 13000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL1_5.gpx",
+    "partOf": 1
+  },
+  {
+    "ID": 6,
+    "Destination1": "Vesslarp",
+    "Destination2": "Glimåkra",
+    "Part": 6,
+    "Length": 19000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL1_6.gpx",
+    "partOf": 1
+  },
+  {
+    "ID": 7,
+    "Destination1": "Breanäsleden",
+    "Destination2": "Breanäs",
+    "Part": 6.2,
+    "Length": 19000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL1-6A.gpx",
+    "partOf": 1
+  },
+  {
+    "ID": 8,
+    "Destination1": "Breanäsldeden",
+    "Destination2": "Sibbhult",
+    "Part": 6.3,
+    "Length": 5000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL1-6Aansl.gpx",
+    "partOf": 1
+  },
+  {
+    "ID": 9,
+    "Destination1": "Glimåkra",
+    "Destination2": "Osby",
+    "Part": 7,
+    "Length": 17000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL1_7.gpx",
+    "partOf": 1
+  },
+  {
+    "ID": 10,
+    "Destination1": "Osby",
+    "Destination2": "Verum",
+    "Part": 8,
+    "Length": 24000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL1_8.gpx",
+    "partOf": 1
+  },
+  {
+    "ID": 11,
+    "Destination1": "Verum",
+    "Destination2": "Vittsjö",
+    "Part": 9,
+    "Length": 12000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL1_9.gpx",
+    "partOf": 1
+  },
+  {
+    "ID": 12,
+    "Destination1": "Vittsjö",
+    "Destination2": "Hårsjö",
+    "Part": 10,
+    "Length": 8000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL1_10.gpx",
+    "partOf": 1
+  },
+  {
+    "ID": 13,
+    "Destination1": "Hårsjö",
+    "Destination2": "Lärkesholm",
+    "Part": 11,
+    "Length": 20000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL1_11.gpx",
+    "partOf": 1
+  },
+  {
+    "ID": 14,
+    "Destination1": "Lärkesholm",
+    "Destination2": "Bjärabygget",
+    "Part": 12,
+    "Length": 13000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL1_12.gpx",
+    "partOf": 1
+  },
+  {
+    "ID": 15,
+    "Destination1": "Lärkesholm",
+    "Destination2": "Grytåsa",
+    "Part": 12.2,
+    "Length": 17000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL1_12A.gpx",
+    "partOf": 1
+  },
+  {
+    "ID": 16,
+    "Destination1": "Bjärabygget",
+    "Destination2": "Koarp",
+    "Part": 13,
+    "Length": 17000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL1_13.gpx",
+    "partOf": 1
+  },
+  {
+    "ID": 17,
+    "Destination1": "Koarp",
+    "Destination2": "Brammarp",
+    "Part": 14,
+    "Length": 17000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL1_14.gpx",
+    "partOf": 1
+  },
+  {
+    "ID": 18,
+    "Destination1": "Brammarp",
+    "Destination2": "Båstad",
+    "Part": 15,
+    "Length": 12000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL1_15.gpx",
+    "partOf": 1
+  },
+  {
+    "ID": 19,
+    "Destination1": "Båstad",
+    "Destination2": "Knösen",
+    "Part": 16,
+    "Length": 16000,
+    "LevelOfDifficulty": 3,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL1-16.gpx",
+    "partOf": 1
+  },
+  {
+    "ID": 20,
+    "Destination1": "Knösen",
+    "Destination2": "Torekov",
+    "Part": 17,
+    "Length": 8000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL1-17.gpx",
+    "partOf": 1
+  },
+  {
+    "ID": 21,
+    "Destination1": "Torekov",
+    "Destination2": "Vejbystrand",
+    "Part": 18,
+    "Length": 20000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL1_18.gpx",
+    "partOf": 1
+  },
+  {
+    "ID": 22,
+    "Destination1": "Vejbystrand",
+    "Destination2": "Hålehall",
+    "Part": 19,
+    "Length": 11000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL1_19.gpx",
+    "partOf": 1
+  },
+  {
+    "ID": 23,
+    "Destination1": "Hålehall",
+    "Destination2": "Örlid",
+    "Part": 20,
+    "Length": 9000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL1_20.gpx",
+    "partOf": 1
+  },
+  {
+    "ID": 24,
+    "Destination1": "Ängelsbäckstrand",
+    "Destination2": "Båstad",
+    "Part": 21,
+    "Length": 14000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL1_21.gpx",
+    "partOf": 1
+  },
+  {
+    "ID": 25,
+    "Destination1": "Vejbystrand",
+    "Destination2": "Ängelholm",
+    "Part": 22,
+    "Length": 13000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL1_22.gpx",
+    "partOf": 1
+  },
+  {
+    "ID": 26,
+    "Destination1": "Hårsjö",
+    "Destination2": "Olastorp",
+    "Part": 1,
+    "Length": 4000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2_1.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 27,
+    "Destination1": "Olastorp",
+    "Destination2": "Vedema",
+    "Part": 2,
+    "Length": 13000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2_2.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 28,
+    "Destination1": "Vedema",
+    "Destination2": "Hässleholm",
+    "Part": 3,
+    "Length": 22000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2-3.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 29,
+    "Destination1": "Hässleholm",
+    "Destination2": "Göingeåsen",
+    "Part": 4,
+    "Length": 11000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2-4.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 30,
+    "Destination1": "Göingeåsen",
+    "Destination2": "Hovdala",
+    "Part": 4.1,
+    "Length": 11000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2-4A.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 31,
+    "Destination1": "Hovdala",
+    "Destination2": "Skyrup",
+    "Part": 4.2,
+    "Length": 20000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2-4B.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 32,
+    "Destination1": "Skyrup",
+    "Destination2": "Hässleholm",
+    "Part": 4.3,
+    "Length": 16000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2-4C.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 33,
+    "Destination1": "Göingeåsen",
+    "Destination2": "Lillsjödal",
+    "Part": 5,
+    "Length": 10000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2-5.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 34,
+    "Destination1": "Lillsjödal",
+    "Destination2": "Maglebjär",
+    "Part": 6,
+    "Length": 21000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2-6.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 35,
+    "Destination1": "Lillsjödal",
+    "Destination2": "Maglebjär",
+    "Part": 6.1,
+    "Length": 3000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2-6anls.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 36,
+    "Destination1": "Maglebjär",
+    "Destination2": "Onsvalakällan",
+    "Part": 7,
+    "Length": 10000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2-7.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 37,
+    "Destination1": "Onsvalakällan",
+    "Destination2": "Bjeveröd",
+    "Part": 8,
+    "Length": 4000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2_8.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 38,
+    "Destination1": "Bjeveröd",
+    "Destination2": "Hörby Ringsjöstrand",
+    "Part": 9,
+    "Length": 17000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2_9.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 39,
+    "Destination1": "Åkes Rundled",
+    "Destination2": "",
+    "Part": 9.1,
+    "Length": 10000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2_9a.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 40,
+    "Destination1": "Ringsjöstrand",
+    "Destination2": "Rövarekulan",
+    "Part": 10,
+    "Length": 13000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2_10.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 41,
+    "Destination1": "Rövarekulan",
+    "Destination2": "Höghult",
+    "Part": 11,
+    "Length": 9000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2_11.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 42,
+    "Destination1": "Höghult",
+    "Destination2": "Krankesjön",
+    "Part": 12,
+    "Length": 11000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2_12.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 43,
+    "Destination1": "Krankesjön",
+    "Destination2": "Väderkullen",
+    "Part": 13,
+    "Length": 14000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2_13.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 44,
+    "Destination1": "Skrylleslingan",
+    "Destination2": "",
+    "Part": 13.1,
+    "Length": 15000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2_13A.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 45,
+    "Destination1": "Väderkullen",
+    "Destination2": "Häckeberga",
+    "Part": 14,
+    "Length": 8000,
+    "LevelOfDifficulty": 3,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2-14.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 46,
+    "Destination1": "Häckeberga",
+    "Destination2": "Sturup",
+    "Part": 15,
+    "Length": 11000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2_15.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 47,
+    "Destination1": "Sturup",
+    "Destination2": "Dörröd",
+    "Part": 15.1,
+    "Length": 14000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2-15A.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 48,
+    "Destination1": "Sturup",
+    "Destination2": "Eksholmssjön",
+    "Part": 16,
+    "Length": 7000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2-16.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 49,
+    "Destination1": "Eksholmssjön",
+    "Destination2": "Torup",
+    "Part": 17,
+    "Length": 9000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2-17.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 50,
+    "Destination1": "Torup",
+    "Destination2": "Bulltofta",
+    "Part": 18,
+    "Length": 14000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2_18.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 51,
+    "Destination1": "Dörröd",
+    "Destination2": "Blentarp",
+    "Part": 19,
+    "Length": 12000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2_19.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 52,
+    "Destination1": "Blentarp",
+    "Destination2": "Snogeholm",
+    "Part": 20,
+    "Length": 12000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2_20.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 53,
+    "Destination1": "Torup",
+    "Destination2": "Fru Alstad",
+    "Part": 21,
+    "Length": 18000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2-21.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 54,
+    "Destination1": "Fru Alstad",
+    "Destination2": "Trelleborg",
+    "Part": 22,
+    "Length": 13000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL2-22.gpx",
+    "partOf": 2
+  },
+  {
+    "ID": 55,
+    "Destination1": "Åstorp",
+    "Destination2": "Hålebäck",
+    "Part": 1,
+    "Length": 10000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL3_1.gpx",
+    "partOf": 3
+  },
+  {
+    "ID": 56,
+    "Destination1": "Hålebäck",
+    "Destination2": "Krika Skog",
+    "Part": 2,
+    "Length": 11000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL3-2.gpx",
+    "partOf": 3
+  },
+  {
+    "ID": 57,
+    "Destination1": "Krika Skog",
+    "Destination2": "Klåveröd",
+    "Part": 3,
+    "Length": 14000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL3-3.gpx",
+    "partOf": 3
+  },
+  {
+    "ID": 58,
+    "Destination1": "Klåveröd",
+    "Destination2": "Söderåsens Nationalpark",
+    "Part": 4,
+    "Length": 6000,
+    "LevelOfDifficulty": 3,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL3_4.gpx",
+    "partOf": 3
+  },
+  {
+    "ID": 59,
+    "Destination1": "Söderåsens Nationalpark",
+    "Destination2": "Jällabjär",
+    "Part": 5,
+    "Length": 11000,
+    "LevelOfDifficulty": 3,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL3_5.gpx",
+    "partOf": 3
+  },
+  {
+    "ID": 60,
+    "Destination1": "Jällabjär",
+    "Destination2": "Södra Hultarp",
+    "Part": 6,
+    "Length": 11000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL3_6.gpx",
+    "partOf": 3
+  },
+  {
+    "ID": 61,
+    "Destination1": "Södra Hultarp",
+    "Destination2": "Maglebjär",
+    "Part": 7,
+    "Length": 14000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL3_7.gpx",
+    "partOf": 3
+  },
+  {
+    "ID": 62,
+    "Destination1": "Maglebjär",
+    "Destination2": "Onsvalakällan",
+    "Part": 8,
+    "Length": 11000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL3-8.gpx",
+    "partOf": 3
+  },
+  {
+    "ID": 63,
+    "Destination1": "Onsvalakällan",
+    "Destination2": "Bjeveröd",
+    "Part": 9,
+    "Length": 5000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL3_9.gpx",
+    "partOf": 3
+  },
+  {
+    "ID": 64,
+    "Destination1": "Bjeveröd",
+    "Destination2": "Ekeröd",
+    "Part": 10,
+    "Length": 12000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL3_10.gpx",
+    "partOf": 3
+  },
+  {
+    "ID": 65,
+    "Destination1": "Ekeröd",
+    "Destination2": "Timan",
+    "Part": 11,
+    "Length": 13000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/sl3-11.gpx",
+    "partOf": 3
+  },
+  {
+    "ID": 66,
+    "Destination1": "Timan",
+    "Destination2": "Rebbetuaröd",
+    "Part": 12,
+    "Length": 21000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL3-12.gpx",
+    "partOf": 3
+  },
+  {
+    "ID": 67,
+    "Destination1": "Rebbetuaröd",
+    "Destination2": "Agusa",
+    "Part": 13,
+    "Length": 7000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL3_13.gpx",
+    "partOf": 3
+  },
+  {
+    "ID": 68,
+    "Destination1": "Agusa",
+    "Destination2": "Brösarp",
+    "Part": 14,
+    "Length": 16000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL3_14.gpx",
+    "partOf": 3
+  },
+  {
+    "ID": 69,
+    "Destination1": "Ystad",
+    "Destination2": "Nybrostrand",
+    "Part": 1,
+    "Length": 10000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL4_1.gpx",
+    "partOf": 4
+  },
+  {
+    "ID": 70,
+    "Destination1": "Nybrostrand",
+    "Destination2": "Löderups Strandbad",
+    "Part": 2,
+    "Length": 18000,
+    "LevelOfDifficulty": 3,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL4_2.gpx",
+    "partOf": 4
+  },
+  {
+    "ID": 71,
+    "Destination1": "Löderups Strandbad",
+    "Destination2": "Borrby Strandbad",
+    "Part": 3,
+    "Length": 11000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL4-3.gpx",
+    "partOf": 4
+  },
+  {
+    "ID": 72,
+    "Destination1": "Borrby Strandbad",
+    "Destination2": "Simrishamn",
+    "Part": 4,
+    "Length": 20000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL4-4.gpx",
+    "partOf": 4
+  },
+  {
+    "ID": 73,
+    "Destination1": "Simrishamn",
+    "Destination2": "Kivik",
+    "Part": 5,
+    "Length": 21000,
+    "LevelOfDifficulty": 3,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL4-5.gpx",
+    "partOf": 4
+  },
+  {
+    "ID": 74,
+    "Destination1": "Kivik",
+    "Destination2": "Vantalängan",
+    "Part": 6,
+    "Length": 15000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL4-6.gpx",
+    "partOf": 4
+  },
+  {
+    "ID": 75,
+    "Destination1": "Vantalängan",
+    "Destination2": "Verkasjön",
+    "Part": 7,
+    "Length": 7000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL4_7.gpx",
+    "partOf": 4
+  },
+  {
+    "ID": 76,
+    "Destination1": "Verkasjön",
+    "Destination2": "Agusa",
+    "Part": 7.1,
+    "Length": 9000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL4_7A.gpx",
+    "partOf": 4
+  },
+  {
+    "ID": 77,
+    "Destination1": "Agusa",
+    "Destination2": "Torparebron",
+    "Part": 7.2,
+    "Length": 14000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL4_7B.gpx",
+    "partOf": 4
+  },
+  {
+    "ID": 78,
+    "Destination1": "Verkasjön",
+    "Destination2": "Heinge",
+    "Part": 8,
+    "Length": 8000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL4_9.gpx",
+    "partOf": 4
+  },
+  {
+    "ID": 79,
+    "Destination1": "Lövestads Åsar",
+    "Destination2": "Vitabäck",
+    "Part": 10,
+    "Length": 14000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL4_10.gpx",
+    "partOf": 4
+  },
+  {
+    "ID": 80,
+    "Destination1": "Vitabäck",
+    "Destination2": "Snogeholm",
+    "Part": 11,
+    "Length": 10000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL4_11.gpx",
+    "partOf": 4
+  },
+  {
+    "ID": 81,
+    "Destination1": "Snogeholm",
+    "Destination2": "Ystad",
+    "Part": 12,
+    "Length": 24000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL4_12.gpx",
+    "partOf": 4
+  },
+  {
+    "ID": 82,
+    "Destination1": "Utvällinge",
+    "Destination2": "Farhult",
+    "Part": 1,
+    "Length": 9000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL5_1.gpx",
+    "partOf": 5
+  },
+  {
+    "ID": 83,
+    "Destination1": "Farhult",
+    "Destination2": "Skäret",
+    "Part": 2,
+    "Length": 10000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL5_2.gpx",
+    "partOf": 5
+  },
+  {
+    "ID": 84,
+    "Destination1": "Skäret",
+    "Destination2": "Josefinelust",
+    "Part": 3,
+    "Length": 13000,
+    "LevelOfDifficulty": 3,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL5_3.gpx",
+    "partOf": 5
+  },
+  {
+    "ID": 85,
+    "Destination1": "Josefinelust",
+    "Destination2": "Strandbaden",
+    "Part": 4,
+    "Length": 14000,
+    "LevelOfDifficulty": 3,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL5_4.gpx",
+    "partOf": 5
+  },
+  {
+    "ID": 86,
+    "Destination1": "Strandbaden",
+    "Destination2": "Domsten",
+    "Part": 5,
+    "Length": 13000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/sl5-5.gpx",
+    "partOf": 5
+  },
+  {
+    "ID": 87,
+    "Destination1": "Domsten",
+    "Destination2": "Helsingborg",
+    "Part": 6,
+    "Length": 14000,
+    "LevelOfDifficulty": 3,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL5_6.gpx",
+    "partOf": 5
+  },
+  {
+    "ID": 88,
+    "Destination1": "Helsingborg",
+    "Destination2": "Rydebäck",
+    "Part": 7,
+    "Length": 16000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL5_7.gpx",
+    "partOf": 5
+  },
+  {
+    "ID": 89,
+    "Destination1": "Rydebäck",
+    "Destination2": "Landskrona",
+    "Part": 8,
+    "Length": 13000,
+    "LevelOfDifficulty": 3,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL5-8.gpx",
+    "partOf": 5
+  },
+  {
+    "ID": 90,
+    "Destination1": "Landskrona",
+    "Destination2": "Järavallen",
+    "Part": 9,
+    "Length": 14000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL5-9.gpx",
+    "partOf": 5
+  },
+  {
+    "ID": 91,
+    "Destination1": "Ven Runt",
+    "Destination2": "",
+    "Part": 9.1,
+    "Length": 12000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL_ven.gpx",
+    "partOf": 5
+  },
+  {
+    "ID": 92,
+    "Destination1": "Järavallen",
+    "Destination2": "Löddeköpinge",
+    "Part": 10,
+    "Length": 21000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/sl5-10.gpx",
+    "partOf": 5
+  },
+  {
+    "ID": 93,
+    "Destination1": "Löddeköpinge",
+    "Destination2": "Bjärred",
+    "Part": 11,
+    "Length": 8000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL5_11.gpx",
+    "partOf": 5
+  },
+  {
+    "ID": 94,
+    "Destination1": "Bjärred",
+    "Destination2": "Lomma",
+    "Part": 12,
+    "Length": 6000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL5_12.gpx",
+    "partOf": 5
+  },
+  {
+    "ID": 95,
+    "Destination1": "Lomma",
+    "Destination2": "Spillepeng",
+    "Part": 13,
+    "Length": 5000,
+    "LevelOfDifficulty": 1,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL5_13.gpx",
+    "partOf": 5
+  },
+  {
+    "ID": 96,
+    "Destination1": "Spillepeng",
+    "Destination2": "Bulltofta",
+    "Part": 14,
+    "Length": 7000,
+    "LevelOfDifficulty": 0,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/sl5_14.gpx",
+    "partOf": 5
+  },
+  {
+    "ID": 97,
+    "Destination1": "Foteviken",
+    "Destination2": "Ljungens Camping",
+    "Part": 20,
+    "Length": 26000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL5_20.gpx",
+    "partOf": 5
+  },
+  {
+    "ID": 98,
+    "Destination1": "Ljungens Camping",
+    "Destination2": "Falsterbokanalen",
+    "Part": 21,
+    "Length": 9000,
+    "LevelOfDifficulty": 2,
+    "GPXLink": "https://cdn.hoodin.com/skaneleden/assets/geomanager/geofiles/SL5_21.gpx",
+    "partOf": 5
+  }
+]
